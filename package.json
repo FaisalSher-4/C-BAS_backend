@@ -11,13 +11,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "devStart": "nodemon server.js"
   },
   "author": "waleed",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.3"
   }
 }

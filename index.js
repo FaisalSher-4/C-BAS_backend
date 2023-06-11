@@ -6,7 +6,6 @@ const app = express();
 
 const User = require("./models/User");
 
-
 // const {
 //   scriptLogModel,
 //   loginLogModel,
@@ -17,7 +16,6 @@ const userMangementRoutes = require("./routes/userManagement");
 const nodesRouter = require("./routes/nodeManagement");
 const exploits = require("./routes/exploits");
 // const data = require("./routes/data");
-
 
 // const signupRoute = rq
 
