@@ -1,5 +1,5 @@
 # C-BAS_backend
-C-BAS Backend c 
+C-BAS Backend 
 
 # Cloud Breach and Attack Simulation Tool
 
